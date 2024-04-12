@@ -44,7 +44,7 @@
     "preview": "refine start",
     "refine": "refine",
     "predeploy": "npm run build",
-    "deploy": "gh - pages -d dist",
+    "deploy": "gh-pages -d dist"
   },
   "browserslist": {
     "production": [
